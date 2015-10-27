@@ -1,0 +1,26 @@
+{
+  "name": "mipaquetenpm",
+  "version": "1.0.0",
+  "description": "exemple tonto",
+  "main": "main.js",
+  "dependencies": {
+    "browserify": "^12.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexlliso/Node.git"
+  },
+  "keywords": [
+    "tonteries"
+  ],
+  "author": "alex lliso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexlliso/Node/issues"
+  },
+  "homepage": "https://github.com/Alexlliso/Node#readme"
+}
